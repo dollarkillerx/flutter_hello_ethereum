@@ -1,6 +1,7 @@
 # flutter_hello_ethereum
 flutter hello ethereum (flutter 以太坊開發實踐)
 
+https://www.geeksforgeeks.org/flutter-and-blockchain-hello-world-dapp/
 
 ``` 
 truffle init
